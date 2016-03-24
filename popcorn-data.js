@@ -1,7 +1,7 @@
 // everything in this file happens inside the window.on(load) function
 // it runs when the rest of the window has been loaded
 $(window).on('load', function() {
-    // Create a popcporn instance by calling Popcorn("#id-of-the-media-element")
+    // Create a popporn instance by calling Popcorn("#id-of-the-media-element")
     // the "pop" object has the full power of the popcorn framework
     var pop = Popcorn("#media");
 
@@ -64,5 +64,6 @@ $(window).on('load', function() {
     // the final brackets.
     // full documentation of all the Popcorn plugins is here:
     // http://popcornjs.org/popcorn-docs/plugins/
-    // we are using an outdated version of popcorn, so 
+    // we are using an outdated version of popcorn (reasons are complicated!), so there may be a few
+    // minor differences between the plugins we have available, and the ones listed in the docmentation.
 });
