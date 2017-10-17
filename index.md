@@ -1,27 +1,16 @@
-# Your Title should go in the appropriate place in `index.html`, not here! Title is itself set only in the `<head>` element
-
-## Use headings only if you want to have subsections in your essay
+# Positive Impacts of Ecotourism
 
 
+#### Conservation and protection of areas rich in biodiversity requires education, effort and money. The **Kangchendzonga National Park** is one such area in Sikkim, India, that requires effective conservation efforts to protect their wide range of fauna and flora.
 
-Add your content here, including _markup_ of **various kinds**. Now you can just write! But you should be aware of a couple of advanced features of markdown:
-- you can embed HTML directly n a markdown file. This is great if you want to add complex attributes like **classes**, e.g. to your `img` tags so that they display properly.
-  - another use of embedded HTML is for funky javascript function links. I've written a simple function that will seek to a particular time code in seconds.  You can call it like this: `<a href="javascript:seek(75)">seek to 1:15</a>`, but `[seek to 1:15](javascript:seek(75))` won't render properly, so you have to type the whole linke in, as seen here: <a href="#" onclick="javascript:seek(75)"> seek to 1:15</a>.
-  - also, Remarkable supports pandoc-style footnotes, which can be helpful sometimes. Here are some examples of footnotes at work:
+#### The **Kangchendzonga Conservation Committee**, an NGO based in _Sikkim_, is key to the conservation efforts as they seek to protect their rich cultural and natural environment through sustainable ecotourism.
 
-    Footnote 1 link[^first].
+#### Uden Bhutia believes ecotourism is key to the conservation process as it provides funding for the efforts of the KCC while also has many potential economic benefits to the community.
 
-    Footnote 2 link[^second].
+#### Conservation of the pristine, natural landscapes is main aim of the KCC. Bhutia mentions the growing negative impact of climate change on KNP and seeks to take a proactive approach to the changing environment. The economic outlook is also negative, as Bhutia further mentioned, with sustenance farming of cardamom seeds disappearing. As this was the main cash crop of the region, the opportunities for people to earn and provide for their families decreases. Despite these hardships, the local population remains strong according to Bhutia.
 
-    Inline footnote^[Text of inline footnote] definition.
+#### Ecotourism is a potential remedy to many issues faced in the region as it’s trickle down economic benefits provide funding for conservation while also creating opportunities for the local population. Money brought in by ecotourists would go towards initiatives designed to preserve the biodiversity of the national park while also negating the impact that tourists have in such landscapes. Tourists would be spending in the local areas during their stay as well, providing opportunities for locals to earn. As Bhutia right says, ecotourism can have an impact on almost all member of the local population, regardless of class, and this is an attractive thought to an area in need of economic rejuvenation.
 
-    Duplicated footnote reference[^second].
+#### For the above information, the interview with Bhutia was useful as it provided a rough overview of the conditions that led to the continuing importance of the KCC. Bhutia quoted statistics regarding the population multiple times during the interview and access to the source of that information would be needed to verify such claims. Information on the specifics of conservation at the KCC would be helpful too to better understand where the new income would be spent. Specific information on current tourism structures in place would be useful to understand what changes need to be made. The interviewer should have prompted questions on specific details instead of repeating the answers given.
 
-you can learn more about remarkable on [its github page](https://github.com/jonschlinkert/remarkable), and get a fuller sense of the syntax [in the online demo](https://jonschlinkert.github.io/remarkable/demo/)
-
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
+### Overall, there are many potential benefits of ecotourism to KCC but they all rely on the actual implementation and management of efforts. As the region requires economic development, ecotourism is certainly an option, but this option only remains if the natural beauty is protected and conserved.
