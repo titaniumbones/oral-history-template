@@ -1,18 +1,17 @@
-# Ecotourism and the History of the Khanchendzonga Conservation Committee
+## Ecotourism and the History of the Khanchendzonga Conservation Committee
 
 *Pema Bhutia presents the peculiar circumstances that led to the establishment of the KCC. While he provides an insightful narrative of the founders’ inspirations and the organization’s evolution, there were certain moments in the interview, when specific thoughts deserved further elaboration.*
 
-The format of oral account is very useful, especially in this case, considering that we get the perspective of one of the KCC’s founding members, and we get an insight into their worldview and vision. Pema undoubtedly conveys a certain sense of honesty and passion in his account, that is best highlighted by his explicit description of tourists’ former practices: they leave ‘shit all over the scene’!
+![Khanchendzonga](https://upload.wikimedia.org/wikipedia/commons/f/ff/Kanchenjunga_from_Sandakfu.jpg)
 
-<a href="javascript:seek(560)">seek to 9:20</a>
+The format of oral account is very useful, especially in this case, considering that we get the perspective of one of the KCC’s founding members, and we get an insight into their worldview and vision. Pema undoubtedly conveys a certain sense of honesty and passion in his account, that is best highlighted by his explicit description of tourists’ former practices: they leave ‘shit all over the scene’! <a href="javascript:seek(560)">Listen to this part from 9:20</a>
 
 This personal investment in the project also shines through in the language Pema uses, and a specific word – sacred – he constantly deploys in referring to the mountain. He puts a clear emphasis on the mountain’s sacredness, however, it is a word that is universally used in different religious and spiritual discourses. Thus, the interviewer could have inquired about what lies beyond sacredness, especially for the interviewee, how does he perceive the mountain’s sacredness, and how is it and its meaning significant in relation to the region’s culture. Nonetheless, this would have probably steered the conversation in a different direction and it is deserving of a separate discussion clearly.
 
 The adherence to ‘ecotourism’ highlights Sikkim’s participation in globalisation, Pema refers to the concept they selected for several reasons. One of them was the advice they received from knowledgeable international travellers and American partners. It is fascinating to hear how the KCC was not an initiative born in isolation, but the ‘product’ of local and global ecological awareness, proactive experts and the international dissemination of sustainable methods like ecotourism.
 
-### Ecotourism
-
->Ecotourism is best defined as ‘responsible travel to natural areas that conserves the environment and sustains the well-being of local people’, [it] has been promoted as a non-consumptive use of nature and as a possible win–win development strategy, especially for underdeveloped areas […].[^first]  Furthermore, it should not only ‘conserve the environment’, but ‘improve the welfare of local people’ and ‘generate money in an ecologically and socially friendly way than other forms of land exploitation.’[^first]
+## Ecotourism
+> Ecotourism is best defined as ‘responsible travel to natural areas that conserves the environment and sustains the well-being of local people’, [it] has been promoted as a non-consumptive use of nature and as a possible win–win development strategy, especially for underdeveloped areas […].[^first]  Furthermore, it should not only ‘conserve the environment’, but ‘improve the welfare of local people’ and ‘generate money in an ecologically and socially friendly way than other forms of land exploitation.’[^first]
 
 There’s a sense of consciousness conveyed by Pema’s way of speaking, an awareness of feasible developmental paths for Sikkim. His narrative construction has specific characteristics, always stressing ecological concerns and corresponding human activity. This attests to his profound knowledge and expertise, especially in relation to the fundamental importance of sustainable environmental practices for communities. It would have been fascinating to hear more about how the KCC fits into development trends in the region, more specifically Sikkim’s post-merger ‘decentralized spread of economic progress’.[^second]
 
