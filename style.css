@@ -35,6 +35,14 @@ h1 {
   background-image: url("http://whc.unesco.org/uploads/thumbs/site_1513_0018-500-375-20161019150904.jpg");
   background-size: cover;
   background-position: center;
-  height: 500px;
+  width: 700px;
+  height: 450px;
+
+}
+figure {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
 
 }
