@@ -3,7 +3,7 @@
 
 /* AUDIO PLAYER */
 #media {
-    border: 4px solid #880000;
+    border: 4px solid #00bfff;
     width: 100%;
     margin: 15px 0;
     box-shadow: rgba(0,0,0, .5) 0 0 5px;
@@ -14,14 +14,19 @@
    margin: 15px;
    float: right;
 }
+body {
+  background-color: skyblue;
+
+}
 title {
   color: White;
   background-color: Black;
-  
+
 }
 h1 {
   color: MidnightBlue;
-  background-color: limegreen;
+  background-color: skyblue;
+  border: 4px solid #191970;
  font-family: 'Covered By Your Grace', sans-serif;
  font-size: 50px;
  position: relative;

@@ -8,7 +8,7 @@
   <head>
     <meta charset="UTF-8" />
     <!-- remember to add your title and name here -->
-    <title>Developing the KCC | by Nicole D'Angela</title>
+    <title> Developing the KCC | by Nicole D'Angela </title>
     <!-- load some big magic scripts  -->
     <!-- jQuery is an important framework used by many web projects  -->
     <script src="http://code.jquery.com/jquery-2.1.4.js"></script>
@@ -26,7 +26,6 @@
   <!-- The 'class' attribute might affect how the page is displayed, depending on
        what's in the css file linked to in the <head> section -->
     <body>
-
       <nav class="navbar navbar-default">
         <div class="container-fluid">
           <div class="navbar-header">
@@ -47,6 +46,9 @@
             <source src="http://2017.hackinghistory.ca/audio/pema-history-kcc.mp3"
                     type="audio/mp3" />
           </audio>
+            <head>
+               <h1> KCC interview </h1>
+             </head>
 
           <div id="contentdiv">
             <!-- don't bother putting anything in here -- it will get replaced by the content of index.md -->
@@ -57,7 +59,6 @@
       <!-- this short script dumps the contents of index.md into the #contentdiv div element, and renders
            them as HTML. Also declares a function to be used in links, to seke to a timecode in #media  -->
       <script>
-
         //instantiate the parser object and declare the placeholder variable for the rendered content
         var md = new Remarkable({
               html: true,
