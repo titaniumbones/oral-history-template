@@ -14,4 +14,18 @@
    margin: 15px;
    float: right;
 }
+title {
+  color: White;
+  background-color: Black;
+  
+}
+h1 {
+  color: MidnightBlue;
+  background-color: limegreen;
+ font-family: 'Covered By Your Grace', sans-serif;
+ font-size: 50px;
+ position: relative;
+ font-weight: bold;
+  text-align: center;
 
+}
