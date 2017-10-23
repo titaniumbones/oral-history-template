@@ -8,6 +8,8 @@ The format of oral account is very useful, especially in this case, considering 
 
 This personal investment in the project also shines through in the language Pema uses, and a specific word – sacred – he constantly deploys in referring to the mountain. He puts a clear emphasis on the mountain’s sacredness, however, it is a word that is universally used in different religious and spiritual discourses. Thus, the interviewer could have inquired about what lies beyond sacredness, especially for the interviewee, how does he perceive the mountain’s sacredness, and how is it and its meaning significant in relation to the region’s culture. Nonetheless, this would have probably steered the conversation in a different direction and it is deserving of a separate discussion clearly.
 
+![Yuksam](http://www.travelophoto.com/wp-content/uploads/2016/10/Yuksam_0085.jpg)
+
 The adherence to ‘ecotourism’ highlights Sikkim’s participation in globalisation, Pema refers to the concept they selected for several reasons. One of them was the advice they received from knowledgeable international travellers and American partners. It is fascinating to hear how the KCC was not an initiative born in isolation, but the ‘product’ of local and global ecological awareness, proactive experts and the international dissemination of sustainable methods like ecotourism.
 
 ## Ecotourism
@@ -21,9 +23,11 @@ He provides an excellent outline of what factors shaped the KCC’s understandin
 
 The question of agency around the organization is also a barely covered theme in the interview. While we get a concise history of the organization, we lack information on the individuals who formed it, and their individual backgrounds. The vague impression we get from Pema’s interview is that it was an initiative by local experts. Moreover, while public mobilisation is mentioned in relation to their initial waste-collection programme, we lack an understanding of the broader local population’s opinion, incentives and motivation.
 
+![Children](http://kccsikkim.weebly.com/uploads/4/4/0/5/44058595/4176817_orig.jpg)
+
 Due to the constraining length of the interview, there were some rushed parts, that Pema clearly did not perceive significant enough to elaborate on. However, there were specific points that could have clarified the more operational and technical dimensions of the KCC.
 
-He briefly mentions a green-house initiative, that should have deserved some follow-up questions, especially as it highlights how diverse the KCC’s portfolio has been and, possibly, the challenges it faced and the lessons it learned. This green-house effort – and most likely other unmentioned projects – must have shaped their eventual organizational direction.
+He briefly mentions a green-house initiative, that should have deserved some follow-up questions, especially as it highlights how diverse the KCC’s portfolio has been and, possibly, the challenges it faced and the lessons it learned. This green-house effort – and most likely other unmentioned projects – must have shaped their eventual organizational direction and scope.
 
 The KCC was initially supported by individual donations through its fundraising cultural programmes, but we lack an understanding of its current state. Pema is very obscure in the way he talks about how the NGO model is effective for them. The interviewer could have asked about the KCC’s funding model or the regulations that have been implemented to support NGOs in India.
 
