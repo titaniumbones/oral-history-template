@@ -24,13 +24,17 @@ title {
 
 }
 h1 {
-  color: MidnightBlue;
+  color: White;
   background-color: skyblue;
-  border: 4px solid #191970;
+  border: 2px solid #191970;
  font-family: 'Covered By Your Grace', sans-serif;
- font-size: 50px;
+ font-size: 70px;
  position: relative;
  font-weight: bold;
   text-align: center;
+  background-image: url("http://whc.unesco.org/uploads/thumbs/site_1513_0018-500-375-20161019150904.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
 
 }
