@@ -1,4 +1,4 @@
-## Ecotourism and the History of the Khanchendzonga Conservation Committee
+## Ecotourism and the KCC
 
 *Pema Bhutia presents the peculiar circumstances that led to the establishment of the KCC. While he provides an insightful narrative of the founders’ inspirations and the organization’s evolution, there were certain moments in the interview, when specific thoughts deserved further elaboration.*
 
@@ -17,7 +17,7 @@ The adherence to ‘ecotourism’ highlights Sikkim’s participation in globali
 
 There’s a sense of consciousness conveyed by Pema’s way of speaking, an awareness of feasible __development paths__ for Sikkim. His narrative construction has specific characteristics, always stressing ecological concerns and corresponding human activity. This attests to his profound knowledge and expertise, especially in relation to the fundamental importance of sustainable environmental practices for communities. It would have been fascinating to hear more about how the KCC fits into development trends in the region, more specifically Sikkim’s post-merger ‘decentralized spread of economic progress’.[^second]
 
-![KCC](http://www.baliparafoundation.com/sites/default/files/images/galleries/img56_0.jpg)
+<img src="http://www.baliparafoundation.com/sites/default/files/images/galleries/img56_0.jpg" alt="KCC" style="width: 500px;"/>
 
 He provides an excellent outline of what __factors__ shaped the KCC’s understanding of ecological problems and their connections to tourism, but at some moments, the interviewer should have inquired about the social and cultural implications of old and new tourism. For instance, Pema points to immigrants from Nepal, who cannot be rejected due to lack of regulation, taking jobs with trekking companies as a significant factor that inspired the KCC. While this is a very intriguing point, the underlying regional socio-economic conditions, different ethnic communities’ relationships, or any corresponding social tensions involving locals would have deserved some exposure. Furthermore, the audience is more than interested in how this transnational movement of people due to economic needs has transformed Sikkim’s culture, or even ecotourism’s potential social impacts.
 
