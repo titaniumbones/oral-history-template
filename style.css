@@ -46,12 +46,21 @@ h2 {
   background-size: auto;
   width: 700px;
   height:30px;
+  margin: 1cm 1cm 1cm 1cm;
 }
 figure {
   object-fit: fill;
   display: block;
   position: bottom;
-  margin: auto;
   width: 50%;
+  margin: 1cm 1cm 1cm 1cm;
 
+}
+p {
+  display: block;
+  color: Black;
+  align: justify;
+  position: relative;
+  width: 700px;
+  margin: 1cm 1cm 1cm 1cm
 }
