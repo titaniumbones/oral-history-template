@@ -36,6 +36,7 @@ You should edit your files in Atom and make sure you have the ~htnl-preview~ pac
 * Handing this Assignment In
 
 Please hand this in by means of Github Pull Request:
+- *first, and this is very important:* /make sure that you have forked this project on github and are working with your own copy of the repo./
 - check all your code  to make sure you're happy with it.
 - "stage" and then commit your changes (you can now [[https://github.atom.io/][do this]] directly [[http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html][in Atom]] -- so you don't really need Github Desktop anymore!)
 - make *sure* that you have added your audio file to the repository, otherwise I won't have access to it!
