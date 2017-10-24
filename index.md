@@ -1,23 +1,8 @@
 
 
-Add your content here, including _markup_ of **various kinds**. Now you can just write! But you should be aware of a couple of advanced features of markdown:
-- you can embed HTML directly n a markdown file. This is great if you want to add complex attributes like **classes**, e.g. to your `img` tags so that they display properly.
-  - another use of embedded HTML is for funky javascript function links. I've written a simple function that will seek to a particular time code in seconds.  You can call it like this: `<a href="javascript:seek(75)">seek to 1:15</a>`, but `[seek to 1:15](javascript:seek(75))` won't render properly, so you have to type the whole linke in, as seen here: <a href="#" onclick="javascript:seek(75)"> seek to 1:15</a>.
-  - also, Remarkable supports pandoc-style footnotes, which can be helpful sometimes. Here are some examples of footnotes at work:
+ `<a href="javascript:seek(75)">seek to 1:15</a>`, but `[seek to 1:15](javascript:seek(75))` won't render properly, so you have to type the whole linke in, as seen here: <a href="#" onclick="javascript:seek(75)"> seek to 1:15</a>.
 
-    Footnote 1 link[^first].
-
-    Footnote 2 link[^second].
-
-    Inline footnote^[Text of inline footnote] definition.
-
-    Duplicated footnote reference[^second].
-
-you can learn more about remarkable on [its github page](https://github.com/jonschlinkert/remarkable), and get a fuller sense of the syntax [in the online demo](https://jonschlinkert.github.io/remarkable/demo/)
-
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
+ <p> The documentation of culture through oral history is a unique way to understand the origins and practices of different societies.  Through the interview with Pema Bhutia of the Khangchendzonga Conservation Committee (KCC), I was able to retrieve new information each time I listened to the recording.  Bhutia discussed how tourism had socially, economically, and politically impacted the area.  One of the issues which I found most interesting was the environmental impact tourists were having on the land that conflicted with the daily activities of the locals, mentioned HERE(7:50).  For example, the availability of juniper berries on the mountain had increased the number of tourists harvesting.  These resources are used for incense in Buddhist practices.  The increase of tourists was accompanied by litter, the dumping of waste, and alterations in the landscape.  Holes made in the ground for tents and trees being cut down for fire wood were major issues.  The changes in the physical landscape had a negative impact on the spiritual practices of the locals who would use the mountain as a place for prayer and sanctuary.  These conditions are what led to the formation of the KCC in order to preserve the region and the culture’s traditions.
+ </p>  
+ <p>	Through working with oral history sources, I have come to appreciate the “unfiltered” information presented which allowed me to form my own conclusions.  Oral history allows you to grasp the emotions which accompany the context.  For example, when Bhutia discusses how the KCC trains the tour guides (HERE 15:20), he sounds very confident and proud of the system they have created.  I found that the interview lacked structure due to how the interviewer framed the questions and did not keep the interviewee on topic.  If more specific questions were given, more specific answers would have resulted.  In comparison to a written source, I would use the interviews as a reference to guide my understandings of the community and apply quotes from those interviewed to any further writings on the KCC.  These files were easy to work with since I could pause to take notes, or rewind if I did not understand something the first time.  Although there were sometimes distracting background noises, I felt like it added to the interview and assisted in portraying the characteristics of the culture.  If more interviews were to be done, I would want to hear more about the political issues of the region, such as workers from Nepal, and Sikkim’s relationship with the Indian State.  I feel like individual opinions on these matters would be interesting to hear and give further details as to which direction the KCC plans to move in for the future.    
+ </p>

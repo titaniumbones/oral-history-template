@@ -41,8 +41,8 @@ h1 {
 }
 figure {
   display: block;
+  position: bottom;
   margin: auto;
   width: 50%;
-}
 
 }
