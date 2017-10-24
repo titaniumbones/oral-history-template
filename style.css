@@ -39,7 +39,16 @@ h1 {
   height: 450px;
 
 }
+h2 {
+  color: MidnightBlue;
+  position: relative;
+  background-position: center;
+  background-size: auto;
+  width: 700px;
+  height:30px;
+}
 figure {
+  object-fit: fill;
   display: block;
   position: bottom;
   margin: auto;
