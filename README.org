@@ -32,7 +32,7 @@ You should edit your files in Atom and make sure you have the ~htnl-preview~ pac
 * Tips and Tricks
 - use the javascript `seek` function I defined to queue the audio file to a specific timecode in the file. You can call it with `<a href="javascript:seek(135)"></a>` -- just replace `135` with whatever time you want to seek to, in seconds.  Unfortunaely you'll have to write this in plain old HTML as remarkable has trouble parsing javascript links.
 - load a different Bootstrap theme by copying the CSS link from [[https://www.bootstrapcdn.com/bootswatch/?theme=0][the Bootstrap CDN]]. Feel free to experiment
-
+ 
 * Handing this Assignment In
 
 Please hand this in by means of Github Pull Request:
