@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 
-  <!-- please cosend help send helpmmit plesse-->
-  <!-- This is . Your browser will not pay attention to it.  -->
-  <!-- We s<head> element. It containgggggs scripts and metadata;  -->
+  <!-- comments -->
+  <!-- This is commented text. Your browser will not pay attention to it.  -->
+  <!-- We start with a <head> element. It contains scripts and metadata;  -->
   <!-- none of this displays directly in the web page.  -->
   <head>
     <meta charset="UTF-8" />
     <!-- remember to add your title and name here -->
-    <title> by Your Name</title>
+    <title> Porters and Community-Based Ecotourism in Sikkim | by Monica </title>
     <!-- load some big magic scripts  -->
     <!-- jQuery is an important framework used by many web projects  -->
     <script src="http://code.jquery.com/jquery-2.1.4.js"></script>
@@ -18,19 +18,19 @@
     <!-- Our Bootstrap theme. To use another copy the appropriate URL from  -->
     <!-- https://www.bootstrapcdn.com/bootswatch/?theme=0 -->
     <link rel="stylesheet" type="text/css" media="all"
-          href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/solar/bootstrap.min.css" />
+          href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css" />
   </head>
 
 
-  <!---->
-  <!-- The 'class' attribute might affect how the page is dddddisplayed, depending on
+  <!-- The body of the web page starts here.  This is the stuff you see -->
+  <!-- The 'class' attribute might affect how the page is displayed, depending on
        what's in the css file linked to in the <head> section -->
     <body>
 
       <nav class="navbar navbar-default">
         <div class="container-fluid">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">Title</a> <!-- should be descriptive -->
+            <a class="navbar-brand" href="#">Porters in Community-Based Ecotourism in Sikkim: A Primer | by Monica</a> <!-- should be descriptive -->
           </div>
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -44,7 +44,7 @@
           <!-- this is our audio div.  It holds the audio file. -->
           <audio id="media" controls="controls">
             <!-- Make sure this points to the actual mp3 file you are analyzing -->
-            <source src="https://storycorpsorg-staging.s3.amazonaws.com/uploads/walsh2-1.mp3"
+            <source src="http://2017.hackinghistory.ca/audio/uden-tsering-porters.mp3"
                     type="audio/mp3" />
           </audio>
 
@@ -54,7 +54,8 @@
         </div>
       </div>
 
-      <!-- this sks, to seke to a timecode in #media  -->
+      <!-- this short script dumps the contents of index.md into the #contentdiv div element, and renders
+           them as HTML. Also declares a function to be used in links, to seke to a timecode in #media  -->
       <script>
 
         //instantiate the parser object and declare the placeholder variable for the rendered content
@@ -86,11 +87,27 @@
         };
         seek(75);
       </script>
+
+      <div id="gallery">
+        <ul>
+          <li><a href="#"><img src="mountain.jpg" alt="" width="300" height="200"><span>View of Mt. Khangchendzonga</span></a></li>
+          <li><a href="#"><img src="trekking.jpg" alt="" width="200" height="200"><span>Trekking map that outlines <p> the precarious routes.</p></span></a></li>
+          <li><a href="#"><img src="orientation.jpg" alt="" width="300" height="200"><span>What appears to be an orientation.</span></a></li>
+          <li><a href="#"><img src="porters.jpg" alt="" width="300" height="200"><span>Porters and trekkers.</span></a></li>
+          <li><a href="#"><img src="yaks.jpg" alt="" width="300" height="200"><span>The forgotten porters! (Yaks)</span></a></li>
+        </ul>
+      </div>
+
       <!-- This <link> element controls some style elements for the page.
            It controls some important elements of presentation.
            We load it after strapdown in case you want to override
            some of the bootstrap css -->
       <link rel="stylesheet" type="text/css" media="all"
             href="style.css" />
+
+            <!-- AFter -->
+
+
+
     </body>
 </html>

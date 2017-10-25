@@ -1,25 +1,12 @@
-# Your Title should go in the appropriate place in `index.html`, not here! Title is itself set only in the `<head>` element
 
-## Use headings only if you want to have
+The Khangchendzonga Conservation Committee (KCC) is a community-based NGO dedicated to preserving local culture and its ecosystems in the face of a growing tourism industry. Ecotourism in Sikkim has been successful, but not without several negative effects which include ecological degradation, socio-economic ruin, and a lack of initiative to protect local culture. In order for sustainable ecotourism in Sikkim to be possible, negative effects must be minimized and care taken to ensure the well-being of visitors, local community, and the surrounding ecosystems.[^first]
 
+A training program for porters was created to help facilitate conservation of culture and nature. It aims to mitigate the negative externalities of ecotourism through the medium of the porter, who acts as a guide to culture and nature. Tsering Uden Bhutia discusses the porter’s training program, in particular the development of a handbook in which rules of conduct and duty as a guide are outlined. It is clear from the interview that the role and conduct of the porter are essential to the functioning of ecotourism and the overall conservation goals of the KCC.
 
+A grant of ten-thousand rupees was used to fund the handbook. <a href="#" onclick="javascript:seek(80)">Uden Bhutia stresses the significance of the sum,</a> then outlines in detail the <a href="#" onclick="javascript:seek(185)">contents and purpose of the Handbook</a>, speaking as if to justify the cost. It appears as if the Handbook and a one day session is the extent of training for the porters, with the bulk of the information necessary for the position included in the Handbook, making it an invaluable investment. <a href="#" onclick="javascript:seek(202)">She explains the responsibilities of the porters</a>, and it is clear from her detail and tone that porters are the linchpin to ecotourism of the Sikkim area. Acting as local agents of culture,  <a href="#" onclick="javascript:seek(237)">they must be aware of conservation philosophy</a> as they host tourists. As they are also representatives of the local people, <a href="#" onclick="javascript:seek(358)">Uden Bhutia laughingly notes that she includes guidelines on hygiene and hospitality</a> – to be taken into account when interacting with tourists. The inclusion of such social conventions that people living in more developed countries may take for granted reflect the contrast between tourists and the locals of the destination.
 
-Add your content here, including _markup_ of **various kinds**. Now you can just write! But you should be aware of a couple of advanced fipt function links. I've written a simple function that will seek to a particular time code in seconds.  You can call it like this: `<a href="javascript:seek(75)">seek to 1:15</a>`, but `[seek to 1:15](javascript:seek(75))` won't render properly, so you have to type the whole linke in, as seen here: <a href="#" onclick="javascript:seek(75)"> seek to 1:15</a>.
-  - also, Remarkable supports pandoc-style footnotes, which can be helpful sometimes. Here are some examples of footnotes at work:
+The oral histories provided for this assignment serve to give an insight into the origins, workings, and ideals of the KCC. Oral testimony as a historical source is valuable in conveying experience and documenting personal, possibly marginalized, accounts. Compared to traditional historical documentation methods, oral histories are subject to scrutiny in ways that a written document is not. Firstly, it is a raw and unprocessed piece of data, therefore the breadth of information included may not be considered ‘useful’ to the project at hand. Next, there is debate about the credibility of these accounts, as they are largely dependent on memory and can be affected by factors such as emotion and external pressure. The significance of oral history is not solely dependent on the source, but also the interviewer, or evaluator. The way the source is prompted, or how the interviewer frames questions and guides discussion directly results in the crafting (or absence) of a narrative, and therefore historical significance.
 
-    Footnote 1 link[^first].
+Regarding the interview I chose for this assignment, it required several listens, and reading of relevant contexts (Ecotourism, Case studies on community-based development) to begin my understanding of its significance. The interviewer did not guide the process very strictly, and I thought that it allowed for Uden Bhutia to construct her own narrative, one where she greatly details the duties and function of the porters. I would have liked to hear more about the recruiting process, the benefits conferred by those in a porter position (accessibility to foreign currency, culture, language), and more about the effects of such an investment into porter training – how it has furthered the goals of the KCC or contributed to development of the individual.
 
-    Footnote 2 link[^second].
-
-    Inline footnote^[Text of inline footnote] definition.
-
-    Duplicated footnote reference[^second].
-
-you can learn more about remarkable on [its github page](https://github.com/jonschlinkert/remarkable), and get a fuller sense of the syntax [in the online demo](https://jonschlinkert.github.io/remarkable/demo/)
-
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
+[^first]: [Data, Debajit, "Local Tourism Initiative in an Eastern Himalayan Village: Sustainable Ecotourism or small-scale nature exploitation?"" in _Bulletin of Geography Issue. No 27(2015),_ 33-49](https://simplelink.library.utoronto.ca/getUrl/535747)
