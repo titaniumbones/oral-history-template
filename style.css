@@ -37,6 +37,7 @@ h1 {
   background-position: center;
   width: 700px;
   height: 450px;
+  margin: auto;
 
 }
 h2 {
@@ -46,14 +47,15 @@ h2 {
   background-size: auto;
   width: 700px;
   height:30px;
-  margin: 1cm 1cm 1cm 1cm;
+  margin: auto;
 }
 figure {
   object-fit: fill;
+  text-align: center;
   display: block;
   position: bottom;
   width: 50%;
-  margin: 1cm 1cm 1cm 1cm;
+  margin: auto;
 
 }
 p {
@@ -62,5 +64,5 @@ p {
   align: justify;
   position: relative;
   width: 700px;
-  margin: 1cm 1cm 1cm 1cm
+  margin: auto;
 }
