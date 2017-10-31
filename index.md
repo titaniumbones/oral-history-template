@@ -2,7 +2,10 @@
 
 ## Use headings only if you want to have subsections in your essay
 
-
+<a href="#" onclick="javascript:seek(13)"> seek to 0:13</a>
+<a href="#" onclick="javascript:seek(200)"> seek to 3:20</a>
+<a href="#" onclick="javascript:seek(230)"> seek to 3:50</a>
+<a href="#" onclick="javascript:seek(305)"> seek to 5:05</a>
 
 Add your content here, including _markup_ of **various kinds**. Now you can just write! But you should be aware of a couple of advanced features of markdown:
 - you can embed HTML directly n a markdown file. This is great if you want to add complex attributes like **classes**, e.g. to your `img` tags so that they display properly.
