@@ -1,27 +1,10 @@
-# Your Title should go in the appropriate place in `index.html`, not here! Title is itself set only in the `<head>` element
 
-## Use headings only if you want to have subsections in your essay
-
+The interview is focusing on two interesting subjects of Sikkimese <a href="https://en.wikipedia.org/wiki/Ecotourism">ecotourism</a>. Why is it important to have ecotourism and why is it important for Sikkim to have a sustainable tourism industry. Interviewee is the current director of Khangchendzonga Conservation Committee (KCC), Tsering Uden Bhutia. As Uden Bhutia mentioned in interview, the short-signed and selfness of human nature are the biggest <a href="#" onclick="javascript:seek(13)">obstacle</a> to push ecotourism. People need to understand the importance of ecotourism, especially for Sikkim.
 
 
-Add your content here, including _markup_ of **various kinds**. Now you can just write! But you should be aware of a couple of advanced features of markdown:
-- you can embed HTML directly n a markdown file. This is great if you want to add complex attributes like **classes**, e.g. to your `img` tags so that they display properly.
-  - another use of embedded HTML is for funky javascript function links. I've written a simple function that will seek to a particular time code in seconds.  You can call it like this: `<a href="javascript:seek(75)">seek to 1:15</a>`, but `[seek to 1:15](javascript:seek(75))` won't render properly, so you have to type the whole linke in, as seen here: <a href="#" onclick="javascript:seek(75)"> seek to 1:15</a>.
-  - also, Remarkable supports pandoc-style footnotes, which can be helpful sometimes. Here are some examples of footnotes at work:
+There are two different type of tourism, <a href="https://en.wikipedia.org/wiki/Cultural_tourism">cultural tourism</a> and nature-based tourism. Nature-based tourism is the form of tourism focus on the natural site and landscape for tourist. The dilemma for this kind of tourism is the fragility of the site. People came for untouched natural beauty. However, the beauty could easily be destroyed by irresponsible human behavior and overexploitation of tourism. <a href="#" onclick="javascript:seek(190)"> No one would come to Sikkim when the natural environment is ruined. </a> That is why ecotourism should be introduced to this situation. Ecotourism stands more for protection of the fragile site and local community. The form of tourism aimed to created a sustainable industry. Local community could benefit from this industry while natural resources would not decay. The traditional tourism views nature site as gold mine. They squeeze as hard as they could to maximum profit, and leave pollution for environment itself to digest. Ecotourism change the view of relationship between tourism and local community. The nature site is not only the display site for outsiders, but also the living environment for locals. It is not a only a profitable mine, but also home to many.
 
-    Footnote 1 link[^first].
-
-    Footnote 2 link[^second].
-
-    Inline footnote^[Text of inline footnote] definition.
-
-    Duplicated footnote reference[^second].
-
-you can learn more about remarkable on [its github page](https://github.com/jonschlinkert/remarkable), and get a fuller sense of the syntax [in the online demo](https://jonschlinkert.github.io/remarkable/demo/)
+In addition, Sikkim need this sustainable industry to save the society from the anxiety of unemployment. In the second part of the interview, Uden Bhutia mentioned the <a href="#" onclick="javascript:seek(230)"> drop of social income in Sikkim </a> due to <a href="#" onclick="javascript:seek(332)">the high suicide rate </a> in state of Sikkim. <a href="#" onclick="javascript:seek(305)">She provided an example of huge drop in production of cardamom^[<a href="https://en.wikipedia.org/wiki/Cardamom">cardamom</a>], </a> which is a major cash crop in Sikkim. From her view, ecotourism could solve the current problem of unemployment. For one, ecotourism welcome people from different educated background. People could get job easily after they get trained accordingly.
 
 
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
+Oral history presented in interview served the same role as written history. The record offers a glimpse of the event in history at the moment. One confusion I notice from the interview about oral history in general is the credibility. It is difficult for interviewee to provide complete footnote or massive data to prove the statement, especially in short-length interview. most of the time, the reputation of the interviewee. Uden Bhutia is the expert of what she did and Sikkimese society. That is why we take her word on the subject. Her reputation is being transferred to serve as credibility in communication. This credit is solely build on the trusty characteristic of interviewee. The same confusion could apply to any random piece of Written historical record. Without related knowledge to the time period, the recorded story could not be testify or proved. The only difference is the reference of written history are much easy to cite in the text. Therefore, oral history could be treated as a source when the interviewers were well educated in the field of study. Interviewers themselves need to be trustworthy to carry the credibility for the recorded interview.

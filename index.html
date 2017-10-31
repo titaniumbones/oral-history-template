@@ -8,7 +8,7 @@
   <head>
     <meta charset="UTF-8" />
     <!-- remember to add your title and name here -->
-    <title>Title Goes Here | by Your Name</title>
+    <title>Ecoturism in Sikkim | by Peng Lei</title>
     <!-- load some big magic scripts  -->
     <!-- jQuery is an important framework used by many web projects  -->
     <script src="http://code.jquery.com/jquery-2.1.4.js"></script>
@@ -18,7 +18,7 @@
     <!-- Our Bootstrap theme. To use another copy the appropriate URL from  -->
     <!-- https://www.bootstrapcdn.com/bootswatch/?theme=0 -->
     <link rel="stylesheet" type="text/css" media="all"
-          href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/solar/bootstrap.min.css" />
+          href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/flatly/bootstrap.min.css" />
   </head>
 
 
@@ -30,7 +30,7 @@
       <nav class="navbar navbar-default">
         <div class="container-fluid">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">Title</a> <!-- should be descriptive -->
+            <a class="navbar-brand" href="#">Ecotourism in Sikkim</a> <!-- should be descriptive -->
           </div>
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -42,16 +42,51 @@
       <div class="container">
         <div class = "row">
           <!-- this is our audio div.  It holds the audio file. -->
-          <audio id="media" controls="controls">
+          <audio controls autoplay id="media" controls="controls">
             <!-- Make sure this points to the actual mp3 file you are analyzing -->
-            <source src="https://storycorpsorg-staging.s3.amazonaws.com/uploads/walsh2-1.mp3"
+            <source src="http://hackinghistory.ca/audio/uden-bhutia-ecotourism.mp3"
                     type="audio/mp3" />
           </audio>
+          <h2>
+            Why is ecotourism important to the state and local community?
+          </h2>
+
+          <div class="polaroid">
+            <img src="http://halfsamosa.in/wp-content/uploads/2017/10/307-khangchendzonga-national-park-.jpg" alt="KCC" style="width:100%">
+            <div class="container">
+              <p>Khangchendzonga National Park, Sikkim (World Heritage Site) in Top 100 Sustainable Destinations of the World</p>
+            </div>
+          </div>
 
           <div id="contentdiv">
             <!-- don't bother putting anything in here -- it will get replaced by the content of index.md -->
-          </div>
+            </div>
         </div>
+      </div>
+
+      <p class="t2">
+        photo gallery
+      </p>
+
+      <div class="gallery">
+        <a target="_blank" href="Gurudongmar_Lake">
+          <img src="http://www.esikkimtourism.in/wp-content/uploads/2015/03/Lake_Gurudongmar_in_summer_months_Sikkim_India_2010.jpg" alt="Lake Gurudongmar" width="300" height="200">
+        </a>
+        <div class="desc">Lake Gurudongmar</div>
+      </div>
+
+      <div class="gallery">
+      <a target="_blank" href="Ravangla">
+      <img src="http://www.esikkimtourism.in/wp-content/uploads/2015/03/Ravangla.jpg" alt="Ravangla" width="300" height="200">
+      </a>
+      <div class="desc">Ravangla</div>
+      </div>
+
+      <div class="gallery">
+        <a target="_blank" href="Cardamom">
+          <img src="http://3gqc5i3a88yk2cv8gqmqocrh.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/cadamom_03_340x250_acf_cropped.jpg" alt="cardamom" width="300" height="200">
+        </a>
+        <div class="desc">This is cardamom</div>
       </div>
 
       <!-- this short script dumps the contents of index.md into the #contentdiv div element, and renders
@@ -85,7 +120,7 @@
         var seek = function (time) {
         document.getElementById("media").currentTime= time;
         };
-        seek(75);
+        seek(0);
       </script>
       <!-- This <link> element controls some style elements for the page.
            It controls some important elements of presentation.
