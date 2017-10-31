@@ -3,7 +3,7 @@
 
 /* AUDIO PLAYER */
 #media {
-    border: 4px solid #880000;
+    border: 4px solid #00bfff;
     width: 100%;
     margin: 15px 0;
     box-shadow: rgba(0,0,0, .5) 0 0 5px;
@@ -14,4 +14,55 @@
    margin: 15px;
    float: right;
 }
+body {
+  background-color: skyblue;
 
+}
+title {
+  color: White;
+  background-color: Black;
+
+}
+h1 {
+  color: White;
+  background-color: skyblue;
+  border: 2px solid #191970;
+ font-family: 'Covered By Your Grace', sans-serif;
+ font-size: 70px;
+ position: relative;
+ font-weight: bold;
+  text-align: center;
+  background-image: url("http://whc.unesco.org/uploads/thumbs/site_1513_0018-500-375-20161019150904.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 700px;
+  height: 450px;
+  margin: auto;
+
+}
+h2 {
+  color: MidnightBlue;
+  position: relative;
+  background-position: center;
+  background-size: auto;
+  width: 700px;
+  height:30px;
+  margin: auto;
+}
+figure {
+  object-fit: fill;
+  text-align: center;
+  display: block;
+  position: bottom;
+  width: 50%;
+  margin: auto;
+
+}
+p {
+  display: block;
+  color: Black;
+  align: justify;
+  position: relative;
+  width: 700px;
+  margin: auto;
+}

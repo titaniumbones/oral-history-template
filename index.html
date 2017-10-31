@@ -8,7 +8,7 @@
   <head>
     <meta charset="UTF-8" />
     <!-- remember to add your title and name here -->
-    <title>Title Goes Here | by Your Name</title>
+    <title> Oral History and the KCC | by Nicole D'Angela </title>
     <!-- load some big magic scripts  -->
     <!-- jQuery is an important framework used by many web projects  -->
     <script src="http://code.jquery.com/jquery-2.1.4.js"></script>
@@ -18,7 +18,7 @@
     <!-- Our Bootstrap theme. To use another copy the appropriate URL from  -->
     <!-- https://www.bootstrapcdn.com/bootswatch/?theme=0 -->
     <link rel="stylesheet" type="text/css" media="all"
-          href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/solar/bootstrap.min.css" />
+          href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/lumen/bootstrap.min.css" />
   </head>
 
 
@@ -26,11 +26,10 @@
   <!-- The 'class' attribute might affect how the page is displayed, depending on
        what's in the css file linked to in the <head> section -->
     <body>
-
       <nav class="navbar navbar-default">
         <div class="container-fluid">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">Title</a> <!-- should be descriptive -->
+            <a class="navbar-brand" href="#">Oral History and the KCC</a> <!-- should be descriptive -->
           </div>
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -44,9 +43,13 @@
           <!-- this is our audio div.  It holds the audio file. -->
           <audio id="media" controls="controls">
             <!-- Make sure this points to the actual mp3 file you are analyzing -->
-            <source src="https://storycorpsorg-staging.s3.amazonaws.com/uploads/walsh2-1.mp3"
+            <source src="http://2017.hackinghistory.ca/audio/pema-history-kcc.mp3"
                     type="audio/mp3" />
           </audio>
+            <head>
+               <h1> An Oral History of the KCC </h1>
+             </head>
+
 
           <div id="contentdiv">
             <!-- don't bother putting anything in here -- it will get replaced by the content of index.md -->
@@ -57,7 +60,6 @@
       <!-- this short script dumps the contents of index.md into the #contentdiv div element, and renders
            them as HTML. Also declares a function to be used in links, to seke to a timecode in #media  -->
       <script>
-
         //instantiate the parser object and declare the placeholder variable for the rendered content
         var md = new Remarkable({
               html: true,
@@ -93,5 +95,13 @@
            some of the bootstrap css -->
       <link rel="stylesheet" type="text/css" media="all"
             href="style.css" />
+            <div class="figure">
+    <figure>
+           <img src="http://whc.unesco.org/uploads/thumbs/site_1513_0008-375-500-20160616135234.jpg"
+           alt="hut on mountain side" style= "width:300px;height:500px;text-align:center"/>
+           <figcaption> Life on the mountain side in Sikkim. </figcaption>
+          
+         </figure>
+       </div>
     </body>
 </html>
