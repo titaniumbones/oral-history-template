@@ -20,6 +20,7 @@
    width: auto;
    height: 500px;
    float: left;
+   margin: 0 auto;
    overflow: scroll;
    background-color: #232f42;
    border:2px solid black;
